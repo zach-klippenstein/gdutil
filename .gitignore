@@ -1,0 +1,5 @@
+# Python files
+*.pyc
+
+# Local-only configuration
+client_secrets.json
